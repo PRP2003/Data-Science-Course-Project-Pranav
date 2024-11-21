@@ -1,4 +1,4 @@
-# Data Science Project
+# Data Science Course Project
 
 ## Project Overview
 
