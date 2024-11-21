@@ -57,6 +57,3 @@ The project includes various visualizations:
 - Clustered student visits using K-Means algorithm.
 - Predicted visiting places based on time spent.
 
-## Contact
-
-Your Name - pranaviiitdm03@gmail.com
